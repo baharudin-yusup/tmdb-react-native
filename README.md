@@ -30,7 +30,7 @@ Axios is used for making HTTP requests to the TMDB API, facilitating data retrie
 
 These libraries and frameworks form the core of the user interface and styling for the React Native application, ensuring cross-platform compatibility and performance.
 
-- **react (v18.2.0)**
-- **react-native (v0.73.0)**
-- **react-native-safe-area-context (v4.7.4)**
-- **react-native-screens (v3.29.0)**
+- **react**
+- **react-native**
+- **react-native-safe-area-context**
+- **react-native-screens**
